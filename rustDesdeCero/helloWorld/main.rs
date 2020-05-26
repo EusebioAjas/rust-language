@@ -1,6 +1,7 @@
 fn main() {
-    println!("Hello World!");
+    let num = 45;
+    let numero : i32 = 78; 
 
-    println!("{}, {}!","Hello", "World");
-
+    println!("{}",num);
+    println!("{}", numero);
 }
